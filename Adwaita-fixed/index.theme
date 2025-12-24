@@ -1,0 +1,8 @@
+[X-GNOME-Metatheme]
+Name=Adwaita-fixed
+Comment=There was a broken one
+Encoding=UTF-8
+GtkTheme=Adwaita-fixed
+IconTheme=Adwaita-fixed
+CursorTheme=Adwaita-fixed
+CursorSize=24
